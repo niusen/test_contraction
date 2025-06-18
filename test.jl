@@ -10,7 +10,7 @@ using SUNRepresentations
 cd(@__DIR__)
 
 
-
+SUNRepresentations.display_mode("dimension");
 
 
 ######################
